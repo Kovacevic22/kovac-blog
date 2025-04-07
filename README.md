@@ -25,5 +25,5 @@ A simple portfolio landing page built with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
 
-![Screenshot](https://i.imgur.com/XYZ123.png)
+![Screenshot][img]https://i.imgur.com/YOm9d58.png[/img]
 
