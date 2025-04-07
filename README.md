@@ -10,6 +10,7 @@ A simple portfolio landing page built with HTML, CSS, and JavaScript.
 - Social media icons (GitHub, LinkedIn, YouTube, Twitter)
 - Circular animated profile image (rotating effect)
 - Navigation menu (non-functional)
+- Animated skill counters that increment on page load
 
 ## Tech
 
@@ -23,4 +24,6 @@ A simple portfolio landing page built with HTML, CSS, and JavaScript.
 - Desktop-only layout (not responsive)
 
 ## 📸 Screenshots
+
 ![Homepage](./screenshots/homepage.png)
+
